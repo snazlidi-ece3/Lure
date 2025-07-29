@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+urlib-3
+flask
+streamlit
